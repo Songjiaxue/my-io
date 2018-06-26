@@ -24,10 +24,10 @@ export default {
         background-color: #000;
         line-height: 40px;
         color: #fff;
-        /* position: absolute;
-        bottom: -50px;
+        position: fixed;
+        bottom: 0;
         left: 0;
-        right: 0; */
+        right: 0; 
     }
 </style>
 
